@@ -3,3 +3,4 @@ Git is free software distributed under the GPL
 Git has a mutable index called stage
 hello git
 my stupid boss still prefers svn
+create a new branch is quick
